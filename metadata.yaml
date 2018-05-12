@@ -1,0 +1,25 @@
+_repo: The-Great-Red-Frog_16905
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16905-h/images/bcover.jpg
+creator:
+  author:
+    agent_name: Ransom, Sidney
+    alias: Yendis, Mosnar
+    gutenberg_agent_id: '7008'
+    url: http://www.gutenberg.org/2009/agents/7008
+description: Illustrated by the author.
+gutenberg_issued: '2005-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+title: The Great Red Frog
+url: http://www.gutenberg.org/ebooks/16905
